@@ -1,6 +1,6 @@
 # Problem
 
-Endagered Animals
+Endangered Animals
 Limited Awareness
 
 # Solution
