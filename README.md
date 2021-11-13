@@ -1,6 +1,6 @@
 # Problem
 
-Endagered Animals '/n'
+Endagered Animals
 Limited Awareness
 
 # Solution
