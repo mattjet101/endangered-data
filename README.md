@@ -1,10 +1,8 @@
 # Problem
 
-Endangered Animals
-Limited Awareness
+Limited Awareness Animals<br />
 
 # Solution
 
-Website that:
-    - endangered species database
-    - allows you to donate to foundations
+Animal Guessing Gane:
+    - uses animal database <br />
